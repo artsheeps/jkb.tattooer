@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # thoughtbot Middleman Starter
 
 ## About
@@ -85,6 +84,3 @@ thoughtbot Middleman Starter is maintained and funded by [thoughtbot, inc](http:
 ## License
 
 Copyright © 2014–2015 [thoughtbot, inc](http://thoughtbot.com). thoughtbot Middleman Starter is free software, and may be redistributed under the terms specified in the [license](https://github.com/thoughtbot/bourbon/blob/master/LICENSE.md).
-=======
-# jkb.tattooer
->>>>>>> 3709cc6b20385a3dc63c1cc76c9fe0efc0c593f4
